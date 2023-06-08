@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News Application</string>
+    <string name="published_at">PUBLISHED BY</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="title">TITLE</string>
+    <string name="source">SOURCE</string>
+    <string name="search">Searching…</string>
+    <string name="breaking_news">News</string>
+    <string name="saved_news">Saved news</string>
+</resources>
